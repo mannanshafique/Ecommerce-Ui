@@ -1,6 +1,10 @@
 # ecomerce_ui
 
-A new Flutter project.
+Flutter shop Ui Kit
 
-## Getting Started
-https://github.com/abuanwar072/E-commerce-App-UI-Flutter/blob/master/intro.gif?raw=true
+## Screen Video
+
+![ui](https://user-images.githubusercontent.com/58309881/91216175-f39ebd80-e72e-11ea-863e-1f0be2980b21.png)
+
+
+
